@@ -1,13 +1,11 @@
 # Aplikasi Inventaris Komputer Fina
 
-## Identitas Pengembang
+## Identitas
 
-| Detail | Informasi |
-|--------|-----------|
-| **Nama** |Fina Julianti  |
-| **NIM** | H1D023119 |
-| **Shift Baru** | E |
-| **Shift Asal** | B |
+**Nama:** Fina Julianti
+**NIM:** H1D023119
+**Shift Baru:** E
+**Shift Asal:** B
 
 ---
 
@@ -26,7 +24,9 @@ Aplikasi Inventaris Komputer Fina adalah aplikasi mobile yang dibangun menggunak
 
 ## Video Demo Aplikasi
 
-> **Link Video Demo:** [Tempel link video demo aplikasi Anda di sini]
+> **Demo Aplikasi:**
+
+![Demo Aplikasi](screenshots/demoresponsi.gif)
 
 Dalam video demo, ditampilkan:
 1. Proses registrasi akun baru
@@ -771,14 +771,6 @@ lib/
 - Semua HTTP request memiliki timeout 10 detik
 - Validasi input dilakukan di client-side sebelum mengirim ke API
 - State management menggunakan `StatefulWidget` dan `setState()`
-
----
-
-## Author
-
-**Alpa Eniyanti Fatimah**
-- NIM: H1D023032
-- Shift: H (Shift 8)
 
 ---
 
